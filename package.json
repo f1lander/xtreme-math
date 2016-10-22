@@ -1,0 +1,24 @@
+{
+  "name": "xtreme-math",
+  "version": "1.0.0",
+  "description": "Mi primer paquete",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/f1lander/xtreme-math.git"
+  },
+  "keywords": [
+    "npm",
+    "module",
+    "package"
+  ],
+  "author": "f1lander",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/f1lander/xtreme-math/issues"
+  },
+  "homepage": "https://github.com/f1lander/xtreme-math#readme"
+}
