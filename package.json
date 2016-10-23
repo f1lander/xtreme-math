@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/f1lander/xtreme-math/issues"
   },
-  "homepage": "https://github.com/f1lander/xtreme-math#readme"
+  "homepage": "https://github.com/f1lander/xtreme-math#readme",
+  "dependencies": {
+    "shared-services": "git+https://github.com/XcooBee/shared-services.git"
+  }
 }
